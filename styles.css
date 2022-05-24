@@ -56,11 +56,13 @@ h1 {
 }
 
 .main {
-    width: 200px;
-    border: 20px solid green;
+    width: 2000px;
     flex: 80%;
-    margin: 20%;
-    padding: 40%;
+    margin: 0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 30%;
+    padding-right: 30%;
 }
 
 @media screen and (max-width: 1200px) {
